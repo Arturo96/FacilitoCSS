@@ -1,0 +1,26 @@
+.ejercicios {
+    margin-top: 25rem;
+    position: relative;
+    background: url("Desert.jpg") 0 / cover fixed;
+    width: 100%;
+    min-height: 100vh;
+}
+
+.content {
+    position: absolute;
+    border-radius: 10px;
+    background: hsla(120, 20%, 50%, .6);
+    box-shadow: 10px 10px 5px rgba(#000, .8);
+    filter: blur(5px);
+    top: 15%;
+    bottom: 15%;
+    left: 10%;
+    right: 10%;
+}
+
+.text {
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    
+}
